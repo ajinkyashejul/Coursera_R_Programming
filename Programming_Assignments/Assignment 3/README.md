@@ -13,10 +13,10 @@ for some background on this particular topic).
 
 The Hospital Compare web site contains a lot of data and we will only look at a small subset for this
 assignment. The zip file for this assignment contains three files
-  *outcome-of-care-measures.csv: Contains information about 30-day mortality and readmission rates
+* outcome-of-care-measures.csv: Contains information about 30-day mortality and readmission rates
 for heart attacks, heart failure, and pneumonia for over 4,000 hospitals.
-  *hospital-data.csv: Contains information about each hospital.
-  *Hospital_Revised_Flatfiles.pdf: Descriptions of the variables in each file (i.e the code book).
+* hospital-data.csv: Contains information about each hospital.
+* Hospital_Revised_Flatfiles.pdf: Descriptions of the variables in each file (i.e the code book).
 
 A description of the variables in each of the files is in the included PDF file named Hospital_Revised_Flatfiles.pdf.
 This document contains information about many other files that are not included with this programming
