@@ -1,4 +1,4 @@
-#Programming Assignment 3 : 
+#Programming Assignment 3 : Hospital Quality
 
 ###Introduction
 Download the file ProgAssignment3-data.zip file containing the data for Programming Assignment 3 from
